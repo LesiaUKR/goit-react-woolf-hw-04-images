@@ -14,4 +14,4 @@
 
 ### Фінальний результат
 
-![screencapture](./assets/screencapture.png)
+![screencapture](./assets/final%20result.jpg)
